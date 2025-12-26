@@ -3,8 +3,10 @@
 I’m Sarthak Sharma
 
 🚀 Data Science | Machine Learning | Deep Learning | NLP | GenAI
-🎓 B.Tech CSE (Data Science)
-💡 Passionate about building real-world AI systems, not just models
+
+- 🎓 B.Tech CSE (Data Science)
+
+- 💡 Passionate about building real-world AI systems, not just models
 
 ---
 
